@@ -1,0 +1,18 @@
+.custom_padding{
+    /* padding: 50px 15px;
+    border: 1px solid black; */
+    
+}
+.custom_hover{
+    transition: 0.5s;
+}
+.custom_image_div{
+    background-color:rgb(6, 161, 132);
+    width: fit-content;
+    height: fit-content;
+    border-radius: 15px;
+}
+.custom_hover:hover{
+    opacity: 30%;
+    transition: 0.5s;
+}
